@@ -1,4 +1,5 @@
-﻿using OrderManagement.Abstractions.Models.OrderManagement.Abstractions.Models;
+﻿using OrderManagement.Abstractions.Models.OrderManagement.Abstractions.Enums;
+using OrderManagement.Abstractions.Models.OrderManagement.Abstractions.Models;
 using Orleans;
 using System;
 using System.Collections.Generic;

@@ -1,5 +1,6 @@
 ﻿namespace OrderManagement.Abstractions.Models
 {
+    using global::OrderManagement.Abstractions.Enums;
     using System;
     using System.Collections.Generic;
 

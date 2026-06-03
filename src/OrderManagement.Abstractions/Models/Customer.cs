@@ -1,9 +1,10 @@
 ﻿namespace OrderManagement.Abstractions.Models
 {
+    using global::OrderManagement.Abstractions.Models.OrderManagement.Abstractions.Models;
     using System;
     using System.Collections.Generic;
 
-    namespace OrderManagement.Abstractions.Models
+    namespace OrderManagement.Abstractions.Enums
     {
         public class Customer
         {
